@@ -132,6 +132,7 @@ BOARD_FLASH_BLOCK_SIZE := 131072 # (BOARD_KERNEL_PAGESIZE * 64)
 # Power
 TARGET_HAS_NO_WLAN_STATS := true
 TARGET_TAP_TO_WAKE_NODE := "/proc/tpd_gesture"
+TARGET_POWERHAL_MODE_EXT := $(DEVICE_PATH)/power/power-mode.cpp
 
 # Properties
 TARGET_ODM_PROP += $(DEVICE_PATH)/odm.prop
@@ -141,7 +142,7 @@ TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 # Peripheral manager
 TARGET_PER_MGR_ENABLED := true
 
-# QCOM hardware
+# Qualcomm
 BOARD_USES_QCOM_HARDWARE := true
 
 # Recovery
