@@ -2149,7 +2149,6 @@ vendor/lib/libc2d30_bltlib.so|4a486823ef2a9ea14f4f02c9eb9053ac5fb028af
 vendor/lib/libgsl.so|2ddafd66848dfd146bbaf184b69f92df9f79c99f
 vendor/lib/libhdr_tm.so|4c371d0931245a65d0b4df768de8837bbdf4832e
 vendor/lib/libllvm-glnext.so|a28adae3ae758cdffc889d681b3cdefe24351c32
-vendor/lib/libllvm-qcom.so|3079ae9049c8758664e6ade78837e0fc6c2272d5
 vendor/lib/libmm-hdcpmgr.so|9a877103235d55a6ba788060cd974c09e769a0b5
 vendor/lib/librs_adreno.so|9f0022a5c38a676a580511749bab3c538ed8b803
 vendor/lib/librs_adreno_sha1.so|28201ce01c442df4389273245be313ff4a741d6e
